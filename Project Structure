@@ -1,0 +1,9 @@
+Virtual-Keyboard/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+│── screenshots/
+│     ├── home.png
+│     ├── dark-mode.png
+│── assets/
